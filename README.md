@@ -1,3 +1,3 @@
 # kokoatalk clone 2021 update
 
-css got so much better!
+HTMA & CSS are so much fun!
