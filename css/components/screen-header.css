@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: var(--horizontal-space);
+  margin-bottom: 15px;
 }
 
 .screen-header__title {
@@ -12,4 +13,21 @@
 
 .screen-header__icons span {
   margin-left: 20px;
+}
+
+.cog-reddot {
+  position: relative;
+}
+
+.reddot-sm {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 22px;
+  bottom: 22px;
 }
